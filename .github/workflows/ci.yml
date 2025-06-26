@@ -1,4 +1,4 @@
-name: Build and test HouseReneting
+name: Build and test House Renting
 
 on:
   pull_request:
